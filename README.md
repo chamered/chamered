@@ -13,7 +13,7 @@ NGL, the dream is to get so good at this that I can eventually ditch the standar
 ## Catch me here 🌐
 I'm sharing the wins (and the many, many fails) across these spots. Come say hi!
 
-- 👨‍💻 My LinkedIn Profile - I don't have one yet :)
+- 👨‍💻 [My LinkedIn Profile](https://www.linkedin.com/in/samuelemaltauro) - For a "professional" me.
 - 📸 [My Instagram](https://www.instagram.com/samuelemaltauroo/) - For some life stuff.
 - 📮 [samu.malta05@gmail.com](mailto:samu.malta05@gmail.com) - For anything more serious.
 - 💼 [Personal website](https://chamered.github.io/) - My portfolio, to take a look at my projects.
